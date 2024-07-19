@@ -1,12 +1,12 @@
 # API CEP. 
 
 # Contexto
-Este projeto trata-se de uma simples API com uma rota GET para realizar uma requisição e obter dados do endereço pelo CEP informado.
+Este projeto trata-se de uma simples API em PHP/Laravel com uma rota GET para realizar uma requisição e obter dados do endereço pelo CEP informado.
 
 
 ## Desenvolvimento 
 
-> Backend
+> 
     Após clonar o repositório acesse a pasta raíz e rode o comando `composer install` para instalar as dependências do projeto e então
     e crie um arquivo .env seguindo o exemplo do .env.example e add a variável `API_CEP_BASE_URL=https://viacep.com.br/ws/` a ele.
  
